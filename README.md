@@ -93,9 +93,5 @@ I’m an M.Tech student at IIIT‑Hyderabad with a B.Tech in CSE from Nirma Univ
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="coding gif"/>
-</div>
-
 > *Thanks for stopping by—feel free to explore, fork ⭐, or get in touch!*
 
