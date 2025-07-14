@@ -1,70 +1,71 @@
-<h1 align="center">Hi, I'm Akshat Kotadia 👋</h1>
-<p align="center">
-  <em>Turning ideas into scalable code</em> <br/>
-  💻 Software Developer | 🎓 M.Tech @ IIIT Hyderabad | 📍 India
-</p>
+<h1 align="center">Hi 👋, I'm Akshat Kotadia</h1>
+<h3 align="center">Turning ideas into scalable code | M.Tech @ IIIT Hyderabad</h3>
 
 <p align="center">
-  <a href="mailto:kotadiaakshat2003@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/akshat-kotadia-32b2b6222/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/Akshat-A-K"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=64FFDA&lines=Software+Developer;M.Tech+CS+@IIIT+Hyderabad;Fullstack+.NET+%7C+React+%7C+Node.js;Open+Source+Contributor+%F0%9F%91%BB;Cloud+%7C+CI%2FCD+%7C+Problem+Solver" />
 </p>
 
 ---
 
-## 🔧 Technologies & Tools
+### 📫 Connect with me:
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-
----
-
-## 🏆 Achievements
-
-- 🥇 **GATE 2025** – 99.61 percentile (AIR 665)
-- 🥈 **IIIT-H PGEE** – AIR 10 in PG Entrance
-- 🏅 **MINeD Hackathon** – 1st Runner-up for Resume Revealer
-- ⚔️ **Competitive Programming**
-  - Codeforces: Pupil (Rating: 1330)
-  - CodeChef: 3★ (Rating: 1785)
-
----
-
-## 📂 Featured Projects
-
-### 📱 [Chat App](https://github.com/Akshat-A-K/ChatApp_Using_Dotnet)
-Real-time chat platform using ASP.NET Core + MongoDB
-
-### 🧠 [Resume Revealer](https://github.com/Akshat-A-K/Resume-Revealer---MINeD-Hackathon)
-Resume parser with job role prediction using NLP and ML
-
-### 🚆 [Railway Ticket Booking System](https://github.com/Akshat-A-K/Railway-ticket-booking)
-Chatbot-based ticket booking using Flask, MySQL, SMTP
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-A-K&show_icons=true&theme=tokyonight" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-A-K&theme=tokyonight" width="45%" />
+<p align="left">
+  <a href="mailto:kotadiaakshat2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akshat-kotadia-32b2b6222/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Akshat-A-K"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/Akshat2003"><img src="https://img.shields.io/badge/-Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://leetcode.com/kotadiaakshat/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📫 Let's Connect
+### 🛠️ Languages & Tools:
 
-Feel free to reach out for collaboration, internships, or freelance gigs 🚀  
-📧 Email: kotadiaakshat2003@gmail.com
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🧠 Currently Exploring:
+- Advanced system design  
+- Distributed systems using AWS  
+- Full-stack microservices architecture
+
+---
+
+### 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-A-K&show_icons=true&theme=tokyonight" alt="stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akshat-A-K&theme=tokyonight" alt="streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-A-K&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| **Chat App** | Real-time chat using .NET Core & MongoDB | [View Repo](https://github.com/Akshat-A-K/ChatApp_Using_Dotnet) |
+| **Resume Revealer** | Resume parser & job-mapper using ML | [View Repo](https://github.com/Akshat-A-K/Resume-Revealer---MINeD-Hackathon) |
+| **Railway Booking** | Flask chatbot with MySQL & Email alerts | [View Repo](https://github.com/Akshat-A-K/Railway-ticket-booking) |
+
+---
+
